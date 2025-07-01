@@ -1,7 +1,11 @@
 main:
+  - title: "Home"
+    url: /
   - title: "About"
     url: /about/
+  - title: "CV"
+    url: /cv/
   - title: "Research"
-    url: /Research/
+    url: /research/
   - title: "Policy"
-    url: /Policy/
+    url: /policy/

@@ -1,27 +1,108 @@
-theme: minimal-mistakes-jekyll
-remote_theme: mmistakes/minimal-mistakes
+# Site Settings
+title: "Xing Guo"
+description: "Principal Researcher at the Bank of Canada"
+url: ""
+baseurl: ""
 
+# Build settings
+remote_theme: mmistakes/minimal-mistakes
+minimal_mistakes_skin: "default"
+
+# Site Author
+author:
+  name: "Xing Guo"
+  avatar: "/assets/images/bio-photo.jpg"
+  bio: "Principal Researcher at the Bank of Canada"
+  location: "Canada"
+  email: ""
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      # url: "mailto:your.email@example.com"
+
+# Reading Files
+include:
+  - .htaccess
+  - _pages
+
+# Conversion
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+
+# Markdown Processing
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+
+# Sass/SCSS
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# Outputting
+permalink: /:categories/:title/
+paginate: 5
+paginate_path: /page:num/
+timezone: America/Toronto
+
+# Plugins
 plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
   - jekyll-include-cache
 
-hero:
-  # background: "/assets/images/hero.jpg"
+# mimic GitHub Pages with --safe
+whitelist:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
 
-author:
-  name: "Your Name"
-  avatar: "/assets/images/bio-photo.jpg"
-  bio: "Assistant Professor of Finance, University of Michigan"
+# Archives
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
 
-# Navigation menu
-navigation:
-  main:
-    - title: "Home"
-      url: /
-    - title: "CV"
-      url: /cv/
-    - title: "Research"
-      url: /Research/
-    - title: "Policy"
-      url: /Policy/
-    # - title: "Contact"
-    #   url: /contact/
+# HTML Compression
+compress_html:
+  clippings: all
+  ignore:
+    envs: development
+
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: false
+      share: true
+      related: true
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
