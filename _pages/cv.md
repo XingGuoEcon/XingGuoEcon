@@ -17,4 +17,4 @@ author_profile: true
 
 <!-- Add your publications here -->
 
-You can also [download my CV as PDF](/assets/images/Files/Guo_CV.pdf).
+You can also [download my CV as PDF](/assets/Files/Guo_CV.pdf).
