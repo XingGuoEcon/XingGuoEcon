@@ -1,0 +1,24 @@
+<div class="page__footer">
+  <footer>
+    {% include footer/custom.html %}
+    <div class="page__footer-follow">
+      <ul class="social-icons">
+        {% if site.footer.links %}
+          {% for link in site.footer.links %}
+            {% if link.label and link.url %}
+              <li><a href="{{ link.url }}" rel="nofollow noopener noreferrer"><i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i> {{ link.label }}</a></li>
+            {% endif %}
+          {% endfor %}
+        {% endif %}
+      </ul>
+    </div>
+
+    <div class="page__footer-copyright">
+      {% if site.site_footer %}
+        {{ site.site_footer }}
+      {% else %}
+        <p>&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. All rights reserved. The views expressed on this website are my own and do not necessarily reflect the views of my employer.</p>
+      {% endif %}
+    </div>
+  </footer>
+</div>

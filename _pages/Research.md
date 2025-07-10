@@ -1,52 +1,54 @@
 ---
-title: "Research"
+title: ""
 layout: single
 permalink: /research/
-author_profile: true
----
-
-## Research Interests
-
-My research mainly covers three topics:
-1. Macroeconomics, especially how micro-heterogeneity reshapes the effects of macro-policy.
-2. Open economy macro, especially the macroeconomic effects of immigration flow.
-3. xxx.
-
----
-
-## Publications
-
-1. **Reassessing the Relevance of Financial Shocks in an Estimated Heterogeneous Firm Model**  
-*American Economic Journal: Macroeconomics (2024)*  
-<!-- I estimate a model incorporating financial shocks and firm heterogeneity, showing their limited role in overall investment volatility. :contentReference[oaicite:1]{index=1} -->
-
-2. **Monetary Policy and Redistribution in Open Economies**  
-(with Pablo Ottonello and Diego Perez)  
-*Journal of Political Economy: Macroeconomics (2023)*  
-<!-- We develop a HANK model for small open economies to study how monetary policy impacts consumption inequality. :contentReference[oaicite:2]{index=2} -->
-
-3. **The Contribution of Firm Profits to the Recent Rise in Inflation**  
-(with Panagiotis Bouras, Christian Bustamante and Jacob Short)  
-*Economics Letters (2023)*  
-<!-- We quantify the role of rising firm markups in inflation dynamics. :contentReference[oaicite:3]{index=3} -->
-
+author_profile: false
+classes: wide
 ---
 
 ## Working Papers
+1. [**Firm Heterogeneity and Adverse Selection in External Finance: Micro Evidence and Macro Implications**](/assets/Files/WorkingPaper/Guo_Ottonello_Winberry_Whited_2025.pdf)  
+   with 
+   <a href="https://sites.google.com/site/ottonellopablo/" class="coauthor-link">Pablo Ottonello</a>, 
+   <a href="https://www.thomaswinberry.com/index.html" class="coauthor-link">Thomas Winberry</a>, and 
+   <a href="https://www.toniwhited.com/" class="coauthor-link">Toni Whited</a>
 
-4. **Third‑Country Effects of U.S. Immigration Policy**  
-  (with Agostina Brinatti)  
-  <!-- Investigating how U.S. visa changes affect labor, trade, and firm outcomes in Canada. :contentReference[oaicite:4]{index=4} -->
+2. [**The (Mis)Allocation of Corporate News**](/assets/Files/WorkingPaper/Guo_Macaulay_Song_2025.pdf)  
+  with 
+  <a href="https://sites.google.com/site/alistairmacaulayecon/home" class="coauthor-link">Alistair Macaulay</a>, 
+  and <a href="https://wentingsong.com/research" class="coauthor-link">Wenting Song</a>
 
-5. **The (Mis)Allocation of Corporate News**  
-  (with Alistair Macaulay and Wenting Song)  
-  <!-- Examines how media coverage influences equity issuance and investment across firms. :contentReference[oaicite:5]{index=5} -->
+1. [**Third‑Country Effects of U.S. Immigration Policy**](/assets/Files/WorkingPaper/Brinatti_Guo_2024.pdf)  
+  with 
+  <a href="https://sites.google.com/view/agostinabrinatti/home" class="coauthor-link">Agostina Brinatti</a>
 
-6. **Firm Heterogeneity and Adverse Selection in External Finance: Micro Evidence and Macro Implications**
-   (with Pablo Ottonello, Thomas Winberry, and Toni Whited)
+
+
+
+## Publications
+1. [**Reassessing the Relevance of Financial Shocks in an Estimated Heterogeneous Firm Model**](https://benny.aeaweb.org/articles?id=10.1257/mac.20200447)  
+*American Economic Journal: Macroeconomics (2024)*
+
+3. [**The Contribution of Firm Profits to the Recent Rise in Inflation**](https://www.sciencedirect.com/science/article/abs/pii/S0165176523004755)  
+with 
+Panagiotis Bouras, 
+<a href="https://cbustamante.co/" class="coauthor-link">Christian Bustamante</a>, and 
+<a href="https://www.jacobmshort.com/" class="coauthor-link">Jacob Short</a>  
+*Economics Letters (2023)*  
+
+1. [**Monetary Policy and Redistribution in Open Economies**](https://www.journals.uchicago.edu/doi/10.1086/723410)  
+with 
+<a href="https://sites.google.com/site/ottonellopablo/" class="coauthor-link">Pablo Ottonello</a> and
+<a href="https://www.perezdiego.org/" class="coauthor-link">Diego Perez</a>  
+*Journal of Political Economy: Macroeconomics (2023)*  
+
+
 
 ---
 
 ## Work in Progress
-7. **On the Sources of Ex‑Ante Firm Heterogeneity**  
-  (with Christian Bustamante, Thomas Pugh, and Wenting Song)
+1. **On the Sources of Ex‑Ante Firm Heterogeneity**  
+  with 
+  <a href="https://cbustamante.co/" class="coauthor-link">Christian Bustamante</a>, 
+  <a href="https://sites.google.com/view/thomasmichaelpugh/home?authuser=0" class="coauthor-link">Thomas Pugh</a>, and 
+  <a href="https://wentingsong.com/research" class="coauthor-link">Wenting Song</a>

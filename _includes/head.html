@@ -1,0 +1,11 @@
+<meta charset="utf-8">
+
+{% include seo.html %}
+
+<!-- Feed link explicitly removed -->
+
+{% if site.search == true or site.search_full_content == true %}
+  <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+{% endif %}
+
+{% include head/custom.html %}

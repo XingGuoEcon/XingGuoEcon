@@ -1,0 +1,20 @@
+// Custom styles for coauthor links
+.coauthor-link {
+  color: inherit !important;
+  text-decoration: none !important;
+  
+  &:hover {
+    text-decoration: underline !important;
+  }
+}
+
+// Alternative: completely invisible links
+.invisible-link {
+  color: inherit !important;
+  text-decoration: none !important;
+  
+  &:hover {
+    color: inherit !important;
+    text-decoration: none !important;
+  }
+}

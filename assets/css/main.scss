@@ -1,0 +1,61 @@
+---
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+/* Custom styles for profile picture */
+.author__avatar img {
+  max-width: 200px !important;  /* Make image larger */
+  width: 200px !important;
+  height: 250px !important;     /* Set rectangular height */
+  border-radius: 8px !important; /* Rectangular frame with rounded corners */
+  object-fit: cover !important;  /* Maintain aspect ratio while filling frame */
+  border: 2px solid #f3f3f3 !important; /* Add a subtle border */
+}
+
+.author__avatar {
+  display: table-cell;
+  vertical-align: top;
+  width: 200px !important;
+}
+
+/* Ensure the sidebar has enough space for larger image */
+.sidebar {
+  width: 250px !important;
+}
+
+@media (max-width: 1024px) {
+  .sidebar {
+    width: 200px !important;
+  }
+  
+  .author__avatar img {
+    max-width: 150px !important;
+    width: 150px !important;
+    height: 200px !important;
+  }
+}
+
+/* Custom styles for coauthor links */
+.coauthor-link {
+  color: inherit !important;
+  text-decoration: none !important;
+}
+
+.coauthor-link:hover {
+  text-decoration: underline !important;
+}
+
+/* Alternative: completely invisible links */
+.invisible-link {
+  color: inherit !important;
+  text-decoration: none !important;
+}
+
+.invisible-link:hover {
+  color: inherit !important;
+  text-decoration: none !important;
+}
