@@ -18,8 +18,6 @@ email: "guoxing.econ@gmail.com"
 description: >- # this means to ignore newlines until "baseurl:"
   Principal Researcher at the Bank of Canada. Research interests include 
   macroeconomics, corporate finance, and immigration economics.
-baseurl: "/XingGuoEcon" # the subpath of your site, e.g. /blog
-url: "https://xingguoecon.github.io" # the base hostname & protocol for your site
 # twitter_username: username
 # github_username: username
 minimal_mistakes_skin: default
