@@ -43,14 +43,18 @@ include:
   - "*.jpg"
   - "*.png"
 
-# Keep certain file types and directories
+# Keep certain file types and directories - don't process these files
 keep_files:
   - assets
   - "*.pdf"
+  - "*.jpg"
+  - "*.png"
 
-# Keep certain file types
-keep_files:
-  - assets
+# Static file extensions to copy without processing
+static_files:
+  - "*.pdf"
+  - "*.jpg"
+  - "*.png"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
