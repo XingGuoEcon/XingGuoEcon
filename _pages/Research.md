@@ -7,18 +7,18 @@ classes: wide
 ---
 
 ## Working Papers
-1. [**Firm Heterogeneity and Adverse Selection in External Finance: Micro Evidence and Macro Implications**](/files/working-papers/Guo_Ottonello_Winberry_Whited_2025.pdf)  
+1. [**Firm Heterogeneity and Adverse Selection in External Finance: Micro Evidence and Macro Implications**](Guo_Ottonello_Winberry_Whited_2025.pdf)  
    with 
    <a href="https://sites.google.com/site/ottonellopablo/" class="coauthor-link">Pablo Ottonello</a>, 
    <a href="https://www.thomaswinberry.com/index.html" class="coauthor-link">Thomas Winberry</a>, and 
    <a href="https://www.toniwhited.com/" class="coauthor-link">Toni Whited</a>
 
-2. [**The (Mis)Allocation of Corporate News**](/files/working-papers/Guo_Macaulay_Song_2025.pdf)  
+2. [**The (Mis)Allocation of Corporate News**](Guo_Macaulay_Song_2025.pdf)  
   with 
   <a href="https://sites.google.com/site/alistairmacaulayecon/home" class="coauthor-link">Alistair Macaulay</a>, 
   and <a href="https://wentingsong.com/research" class="coauthor-link">Wenting Song</a>
 
-3. [**Third‑Country Effects of U.S. Immigration Policy**](/files/working-papers/Brinatti_Guo_2024.pdf)  
+3. [**Third‑Country Effects of U.S. Immigration Policy**](Brinatti_Guo_2024.pdf)  
   with 
   <a href="https://sites.google.com/view/agostinabrinatti/home" class="coauthor-link">Agostina Brinatti</a>
 
