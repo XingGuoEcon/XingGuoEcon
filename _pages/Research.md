@@ -47,7 +47,7 @@ with
 ---
 
 ## Work in Progress
-1. **On the Sources of Ex‑Ante Firm Heterogeneity**  
+1. **Ex-post Founder Heterogeneity and Ex-ante Firm Heterogeneity**  
   with 
   <a href="https://cbustamante.co/" class="coauthor-link">Christian Bustamante</a>, 
   <a href="https://sites.google.com/view/thomasmichaelpugh/home?authuser=0" class="coauthor-link">Thomas Pugh</a>, and 
