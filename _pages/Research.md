@@ -24,7 +24,7 @@ classes: wide
   <a href="https://sites.google.com/view/agostinabrinatti/home" class="coauthor-link">Agostina Brinatti</a>
 
 
-
+---
 
 ## Publications
 1. [**Reassessing the Relevance of Financial Shocks in an Estimated Heterogeneous Firm Model**](https://benny.aeaweb.org/articles?id=10.1257/mac.20200447)  
