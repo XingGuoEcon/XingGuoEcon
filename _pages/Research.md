@@ -10,10 +10,8 @@ classes: wide
 1. [**Firm Heterogeneity and Adverse Selection in External Finance: Micro Evidence and Macro Implications**](/XingGuoEcon/assets/Files/WorkingPaper/Guo_Ottonello_Winberry_Whited_2025.pdf)  
    with 
    <a href="https://sites.google.com/site/ottonellopablo/" class="coauthor-link">Pablo Ottonello</a>, 
-  <a href="https://www.thomaswinberry.com/index.html" class="coauthor-link">Thomas Winberry</a>, and  
-  <a href="https://www.toniwhited.com/" class="coauthor-link">Toni Whited</a>  
-
-  Revise & Resubmit at *Review of Economic Studies*
+  <a href="https://www.thomaswinberry.com/index.html" class="coauthor-link">Thomas Winberry</a>, and <a href="https://www.toniwhited.com/" class="coauthor-link">Toni Whited</a>  
+Revise & Resubmit at *Review of Economic Studies*
 
 2. [**The (Mis)Allocation of Corporate News**](/XingGuoEcon/assets/Files/WorkingPaper/Guo_Macaulay_Song_2025.pdf)  
   with 
