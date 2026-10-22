@@ -17,7 +17,7 @@ Revise & Resubmit at *Review of Economic Studies*
   with 
   <a href="https://sites.google.com/site/alistairmacaulayecon/home" class="coauthor-link">Alistair Macaulay</a>, 
   and <a href="https://wentingsong.com/research" class="coauthor-link">Wenting Song</a>  
-Revise & Resubmit at *Review of Economics and Statistics*
+Conditionally accepted at *Review of Economics and Statistics*
 
 3. [**Third‑Country Effects of U.S. Immigration Policy**](/XingGuoEcon/assets/Files/WorkingPaper/Brinatti_Guo_2024.pdf)  
   with 
