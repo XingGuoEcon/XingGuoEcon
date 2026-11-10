@@ -24,6 +24,10 @@ Conditionally accepted at *Review of Economics and Statistics*
   <a href="https://sites.google.com/view/agostinabrinatti/home" class="coauthor-link">Agostina Brinatti</a>
 
 
+4. [**The Production Network Amplification of Retaliatory Tariffs**](https://www.bankofcanada.ca/2026/10/staff-working-paper-2026-35/)  
+   with <a href="https://cbustamante.co/" class="coauthor-link">Christian Bustamante</a>, Lu Han, Soyoung Lee, Gaelan MacKenzie, Mariel Yacolca Maguiña, and <a href="https://www.jacobmshort.com/" class="coauthor-link">Jacob Short</a>  
+Revise and Resubmit at *Canadian Journal of Economics*
+
 ---
 
 ## Publications
