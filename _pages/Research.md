@@ -13,35 +13,35 @@ classes: wide
   <a href="https://www.thomaswinberry.com/index.html" class="coauthor-link">Thomas Winberry</a>, and <a href="https://www.toniwhited.com/" class="coauthor-link">Toni Whited</a>  
 Revise & Resubmit at *Review of Economic Studies*
 
-2. [**The (Mis)Allocation of Corporate News**](/XingGuoEcon/assets/Files/WorkingPaper/Guo_Macaulay_Song_2025.pdf)  
-  with 
-  <a href="https://sites.google.com/site/alistairmacaulayecon/home" class="coauthor-link">Alistair Macaulay</a>, 
-  and <a href="https://wentingsong.com/research" class="coauthor-link">Wenting Song</a>  
-Conditionally accepted at *Review of Economics and Statistics*
-
-3. [**Third‑Country Effects of U.S. Immigration Policy**](/XingGuoEcon/assets/Files/WorkingPaper/Brinatti_Guo_2024.pdf)  
+2. [**Third‑Country Effects of U.S. Immigration Policy**](/XingGuoEcon/assets/Files/WorkingPaper/Brinatti_Guo_2024.pdf)  
   with 
   <a href="https://sites.google.com/view/agostinabrinatti/home" class="coauthor-link">Agostina Brinatti</a>
 
 
-4. [**The Production Network Amplification of Retaliatory Tariffs**](https://www.bankofcanada.ca/2026/10/staff-working-paper-2026-35/)  
+3. [**The Production Network Amplification of Retaliatory Tariffs**](https://www.bankofcanada.ca/2026/10/staff-working-paper-2026-35/)  
    with <a href="https://cbustamante.co/" class="coauthor-link">Christian Bustamante</a>, Lu Han, Soyoung Lee, Gaelan MacKenzie, Mariel Yacolca Maguiña, and <a href="https://www.jacobmshort.com/" class="coauthor-link">Jacob Short</a>  
 Revise and Resubmit at *Canadian Journal of Economics*
 
 ---
 
 ## Publications
-1. [**Reassessing the Relevance of Financial Shocks in an Estimated Heterogeneous Firm Model**](https://benny.aeaweb.org/articles?id=10.1257/mac.20200447)  
+1. [**The (Mis)Allocation of Corporate News**](/XingGuoEcon/assets/Files/WorkingPaper/Guo_Macaulay_Song_2025.pdf)  
+  with 
+  <a href="https://sites.google.com/site/alistairmacaulayecon/home" class="coauthor-link">Alistair Macaulay</a>, 
+  and <a href="https://wentingsong.com/research" class="coauthor-link">Wenting Song</a>  
+Accepted for publication at *Review of Economics and Statistics*
+
+2. [**Reassessing the Relevance of Financial Shocks in an Estimated Heterogeneous Firm Model**](https://benny.aeaweb.org/articles?id=10.1257/mac.20200447)  
 *American Economic Journal: Macroeconomics (2024)*
 
-2. [**The Contribution of Firm Profits to the Recent Rise in Inflation**](https://www.sciencedirect.com/science/article/abs/pii/S0165176523004755)  
+3. [**The Contribution of Firm Profits to the Recent Rise in Inflation**](https://www.sciencedirect.com/science/article/abs/pii/S0165176523004755)  
 with 
 Panagiotis Bouras, 
 <a href="https://cbustamante.co/" class="coauthor-link">Christian Bustamante</a>, and 
 <a href="https://www.jacobmshort.com/" class="coauthor-link">Jacob Short</a>  
 *Economics Letters (2023)*  
 
-3. [**Monetary Policy and Redistribution in Open Economies**](https://www.journals.uchicago.edu/doi/10.1086/723410)  
+4. [**Monetary Policy and Redistribution in Open Economies**](https://www.journals.uchicago.edu/doi/10.1086/723410)  
 with 
 <a href="https://sites.google.com/site/ottonellopablo/" class="coauthor-link">Pablo Ottonello</a> and
 <a href="https://www.perezdiego.org/" class="coauthor-link">Diego Perez</a>  
